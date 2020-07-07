@@ -1,0 +1,2 @@
+This is a simple Snakes and Ladders game that can be played by two players.
+Here no GUI is used. Players have to play this game in console by enterin a character "r" to roll Dice.
